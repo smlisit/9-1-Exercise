@@ -1,0 +1,16 @@
+body {
+	background-color: maroon;
+}
+
+* {
+	color: #FFFFFF; /*rgb(255,255,255)*/
+}
+
+hl {
+	color: lightyellow;
+}
+
+.animal{
+	font-family: 'Sofia';
+	font-size: 22px
+}
